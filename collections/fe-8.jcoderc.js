@@ -20,5 +20,6 @@ export default {
           {name: '11_伪元素-before-after(重要).html', author: 'Zkeq', id: '7178821191042367543'},
         ],
       },
+      {name: '本站使用说明', id: '7178851964833235003'},
     ],
   };

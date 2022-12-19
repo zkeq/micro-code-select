@@ -16,5 +16,6 @@ export default {
           {name: '07_背景附加-background-attachment.html', author: 'Zkeq', id: '7178828459324473381'},        
         ],
       },
+      {name: '本站使用说明', id: '7178851964833235003'},
     ],
   };

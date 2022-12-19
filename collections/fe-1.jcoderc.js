@@ -14,6 +14,7 @@ export default {
           {name: '05_元素的嵌套演练.html', author: 'Zkeq', id: '7178804153819332647'},
           {name: '06_test_demo.html', author: 'Zkeq', id: '7178804315056767031'},
         ],
-      }
+      },
+      {name: '本站使用说明', id: '7178851964833235003'},
     ],
   };

@@ -10,5 +10,6 @@ export default {
           {name: '01_元素的语义化.html', author: 'Zkeq', id: '7178811798441689122', default: true},
         ],
       },
+      {name: '本站使用说明', id: '7178851964833235003'},
     ],
   };
