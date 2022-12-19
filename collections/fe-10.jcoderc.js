@@ -7,7 +7,7 @@ export default {
         folded: false,
         name: '10_CSS的盒子模型',
         collection: [
-          {name: '01_认识盒子模型.html', author: 'Zkeq', id: '7178823418916110391'},
+          {name: '01_认识盒子模型.html', author: 'Zkeq', id: '7178823418916110391', default: true},
           {name: '02_盒子模型-内容-width-height.html', author: 'Zkeq', id: '7178823636705345540'},
           {name: '03_盒子模型-内容-width-默认值.html', author: 'Zkeq', id: '7178823765906686012'},
           {name: '04_盒子模型-内容-max-min-width.html', author: 'Zkeq', id: '7178823924094861372'},
@@ -27,7 +27,7 @@ export default {
           {name: '17_背景和前景色设置的是哪些.html', author: 'Zkeq', id: '7178825808650174501'},
           {name: '18_盒子模型-box-sizing.html', author: 'Zkeq', id: '7178826060313100323'},        
           {name: '19_盒子模型练习-案例01.html', author: 'Zkeq', id: '7178826139862286373'},
-          {name: '20_盒子模型练习-案例02.html', author: 'Zkeq', id: '7178826576413327397', default: true},        
+          {name: '20_盒子模型练习-案例02.html', author: 'Zkeq', id: '7178826576413327397'},        
           {name: '21_盒子模型练习-案例03.html', author: 'Zkeq', id: '7178826940810428468'},
         ],
       },
