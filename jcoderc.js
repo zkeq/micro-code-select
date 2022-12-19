@@ -4,7 +4,7 @@ export default {
   collection: [
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '01_第一个网页和元素结构',
       collection: [
         {name: '01_开发第一个网页.html', author: 'Zkeq', id: '7178801855294603319', default: true},
@@ -17,7 +17,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '02_HTML常见的元素',
       collection: [
         {name: '01_文档声明.html', author: 'Zkeq', id: '7178804473261735994', default: true},
@@ -43,7 +43,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '03_额外知识补充01',
       collection: [
         {name: '01_元素的语义化.html', author: 'Zkeq', id: '7178811798441689122', default: true},
@@ -51,7 +51,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '04_邂逅和常见CSS',
       collection: [
         {name: '01_编写规则-内联样式.html', author: 'Zkeq', id: '7178811970462679101', default: true},
@@ -68,7 +68,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '05_额外知识补充02',
       collection: [
         {name: '01_link元素的使用.html', author: 'Zkeq', id: '7178814030830633021', default: true},
@@ -79,7 +79,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '06_CSS属性-文本',
       collection: [
         {name: '01_text-decoration.html', author: 'Zkeq', id: '7178816842730274877', default: true},
@@ -94,7 +94,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '07_CSS属性-字体',
       collection: [
         {name: '01_font-size.html', author: 'Zkeq', id: '7178818006825304121', default: true},
@@ -109,7 +109,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '08_CSS常见选择器',
       collection: [
         {name: '01_通用选择器.html', author: 'Zkeq', id: '7178819821985857575', default: true},
@@ -127,7 +127,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '09_CSS-继承-层叠-类型',
       collection: [
         {name: '01_CSS继承-默认继承.html', author: 'Zkeq', id: '7178821626224443453', default: true},
@@ -147,7 +147,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '10_CSS的盒子模型',
       collection: [
         {name: '01_认识盒子模型.html', author: 'Zkeq', id: '7178823418916110391', default: true},
@@ -176,7 +176,7 @@ export default {
     },
     {
       type: 'folder',
-      folded: false,
+      folded: true,
       name: '11_CSS设置背景',
       collection: [
         {name: '01_背景图片-background-image.html', author: 'Zkeq', id: '7178827427148202044', default: true},
