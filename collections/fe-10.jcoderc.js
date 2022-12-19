@@ -11,7 +11,7 @@ export default {
           {name: '02_盒子模型-内容-width-height.html', author: 'Zkeq', id: '7178823636705345540'},
           {name: '03_盒子模型-内容-width-默认值.html', author: 'Zkeq', id: '7178823765906686012'},
           {name: '04_盒子模型-内容-max-min-width.html', author: 'Zkeq', id: '7178823924094861372'},
-          {name: '05_盒子模型-内边距-padding.html', author: 'Zkeq', id: '7178824169704915000'},
+          {name: '05_盒子模型-内边距-padding.html', author: 'Zkeq', id: '7178862565814960187'},
           {name: '06_盒子模型-边框-border.html', author: 'Zkeq', id: '7178824276265566266'},
           {name: '07_盒子模型-圆角-border-radius.html', author: 'Zkeq', id: '7178824386659483709'},        
           {name: '08_盒子模型-外边距-margin.html', author: 'Zkeq', id: '7178824514426372136'},
