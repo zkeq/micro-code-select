@@ -1,0 +1,32 @@
+export default {
+    name: '22计6 前端 寒提资料',
+    url: 'https://code.onmicrosoft.cn/',
+    collection: [
+      {
+        type: 'folder',
+        folded: false,
+        name: '02_HTML常见的元素',
+        collection: [
+          {name: '01_文档声明.html', author: 'Zkeq', id: '7178804473261735994', default: true},
+          {name: '02_html元素的属性.html', author: 'Zkeq', id: '7178804641692385318'},
+          {name: '03_head元素的使用.html', author: 'Zkeq', id: '7178804866704212023'},
+          {name: '04_h元素的用法.html', author: 'Zkeq', id: '7178805032219836474'},
+          {name: '05_p元素的用法.html', author: 'Zkeq', id: '7178805205931130939'},
+          {name: '06_h元素和p元素的案例.html', author: 'Zkeq', id: '7178805327511912506'},
+          {name: '07_h元素和p元素的案例.html', author: 'Zkeq', id: '7178808916594131003'},
+          {name: '08_img元素的基本使用.html', author: 'Zkeq', id: '7178809060412784698'},
+          {name: '09_img元素中的图片路径.html', author: 'Zkeq', id: '7178809481688514597'},
+          {name: '10_a元素的使用.html', author: 'Zkeq', id: '7178809617739153464'},
+          {name: '11_a元素本页面的锚点链接.html', author: 'Zkeq', id: '7178809869506936869'},
+          {name: '12_a元素和img元素结合使用.html', author: 'Zkeq', id: '7178810005359951931'},
+          {name: '13_a元素其他的链接.html', author: 'Zkeq', id: '7178810196213366819'},
+          {name: '14_iframe的基本使用.html', author: 'Zkeq', id: '7178810346315087909'},
+          {name: '15_iframe和a元素的结合使用.html', author: 'Zkeq', id: '7178810766261223482'},
+          {name: '16_div元素和span元素的使用.html', author: 'Zkeq', id: '7178811250988548133'},
+          {name: '17_不太常用元素的演练.html', author: 'Zkeq', id: '7178811377656528956'},
+          {name: '18_全局属性-title属性.html', author: 'Zkeq', id: '7178811497311633445'},
+          {name: '19_额外补充-字符实体.html', author: 'Zkeq', id: '7178811629767753789'},
+        ],
+      },
+    ],
+  };
