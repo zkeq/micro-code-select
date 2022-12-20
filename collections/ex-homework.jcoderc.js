@@ -9,7 +9,8 @@ export default {
             collection: [
                 { name: '优秀作业-001.html', author: 'Zkeq', id: '7178872112629678137', default: true},
                 { name: '优秀作业-002.html', author: 'Zkeq', id: '7178872958247501861' },
-                { name: '优秀作业-003.html', author: 'Zkeq', id: '7179296309629845519' },    
+                { name: '优秀作业-003.html', author: 'Zkeq', id: '7179296309629845519' },  
+                { name: '优秀作业-004.html', author: 'Zkeq', id: '7179297768626716728' },      
             ],
         },
         { name: '本站使用说明', id: '7178851964833235003' },
