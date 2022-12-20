@@ -7,7 +7,7 @@ export default {
         folded: false,
         name: '14_额外知识补充03',
         collection: [
-          {name: '01_border的图形.html', author: 'Zkeq', id: '7179289483924209716'},
+          {name: '01_border的图形.html', author: 'Zkeq', id: '7179289483924209716', default: true},
           {name: '02_WebFonts的基本使用.html', author: 'Zkeq', id: '7179289595413004343'},   
           {name: '03_WebFonts的兼容性写法.html', author: 'Zkeq', id: '7179289977207914555'},    
           {name: '04_字体图标的使用.html', author: 'Zkeq', id: '7179290194271535136'},
