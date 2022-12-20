@@ -1,0 +1,32 @@
+export default {
+    name: '22计6 前端 寒提资料',
+    url: 'https://code.onmicrosoft.cn/fe-11',
+    collection: [
+      {
+        type: 'folder',
+        folded: false,
+        name: '12_HTML高级元素',
+        collection: [
+          {name: '01_列表-有序列表-ol-li.html', author: 'Zkeq', id: '7179058593948237828', default: true},
+          {name: '02_列表-无序列表-ul-li.html', author: 'Zkeq', id: '7179058805509095439'},
+          {name: '03_列表-定义列表-dl-dt-dd.html', author: 'Zkeq', id: '7179058961318936613'},
+          {name: '04_列表练习-新闻列表.html', author: 'Zkeq', id: '7179059056433168418'},
+          {name: '05_继承属性和自己的属性.html', author: 'Zkeq', id: '7179059186766970918'},
+          {name: '06_表格-表格的案例01.html', author: 'Zkeq', id: '7179059310440382467'},
+          {name: '06_表格-表格的案例02(重构).html', author: 'Zkeq', id: '7179059498143711284'},
+          {name: '07_表格-表格的合并.html', author: 'Zkeq', id: '7179059630553694247'},
+          {name: '08_表格-表格的合并练习.html', author: 'Zkeq', id: '7179059721205186612'},
+          {name: '09_表单-input.html', author: 'Zkeq', id: '7179059818672422950'},
+          {name: '10_表单-input实现按钮.html', author: 'Zkeq', id: '7179059954446729255'},
+          {name: '11_表单-input和label结合.html', author: 'Zkeq', id: '7179060085220442124'},
+          {name: '12_表单-单选框-radio.html', author: 'Zkeq', id: '7179060165432492066'},
+          {name: '13_表单-复选框-checkbox.html', author: 'Zkeq', id: '7179060264719876096'},
+          {name: '14_表单-多行输入-textarea.html', author: 'Zkeq', id: '7179060406017589286'},
+          {name: '15_表单-选项列表-select-option.html', author: 'Zkeq', id: '7179060479150456832'},
+          {name: '16_表单-form的使用.html', author: 'Zkeq', id: '7179060591091253282'},
+          {name: '17_表单-模拟百度一下.html', author: 'Zkeq', id: '7179060732019867680'},
+        ],
+      },
+      {name: '本站使用说明', id: '7178851964833235003'},
+    ],
+  };
