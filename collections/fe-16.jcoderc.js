@@ -7,7 +7,7 @@ export default {
         folded: false,
         name: '16_布局-元素浮动',
         collection: [
-          {name: '01_浮动-浮动的规则一二.html', author: 'Zkeq', id: '7180404105947381795'},    
+          {name: '01_浮动-浮动的规则一二.html', author: 'Zkeq', id: '7180404105947381795', default: true},    
           {name: '02_浮动-浮动的规则三.html', author: 'Zkeq', id: '7180404255977635874'},      
           {name: '03_浮动-浮动的规则四.htm', author: 'Zkeq', id: '7180404410621624320'},    
           {name: '04_浮动的练习-图文环绕.html', author: 'Zkeq', id: '7180404540423258116'},    

@@ -7,7 +7,7 @@ export default {
         folded: false,
         name: '15_布局-元素定位',
         collection: [
-          {name: '01_标准流-normal-flow.html', author: 'Zkeq', id: '7179291234320515131'},
+          {name: '01_标准流-normal-flow.html', author: 'Zkeq', id: '7179291234320515131', default: true},
           {name: '02_元素定位-相对定位-relative.html', author: 'Zkeq', id: '7179291391594332163'},   
           {name: '03_元素定位-相对定位的练习.html', author: 'Zkeq', id: '7179291602328748072'},    
           {name: '04_梦幻西游的练习-背景.html', author: 'Zkeq', id: '7179291720692006952'},
