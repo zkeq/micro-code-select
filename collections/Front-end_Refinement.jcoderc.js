@@ -20,7 +20,7 @@ export default {
       folded: false,
       name: '02_HTML常见的元素',
       collection: [
-        {name: '01_文档声明.html', author: 'Zkeq', id: '7178804473261735994', default: true},
+        {name: '01_文档声明.html', author: 'Zkeq', id: '7178804473261735994'},
         {name: '02_html元素的属性.html', author: 'Zkeq', id: '7178804641692385318'},
         {name: '03_head元素的使用.html', author: 'Zkeq', id: '7178804866704212023'},
         {name: '04_h元素的用法.html', author: 'Zkeq', id: '7178805032219836474'},
@@ -46,7 +46,7 @@ export default {
       folded: false,
       name: '03_额外知识补充01',
       collection: [
-        {name: '01_元素的语义化.html', author: 'Zkeq', id: '7178811798441689122', default: true},
+        {name: '01_元素的语义化.html', author: 'Zkeq', id: '7178811798441689122'},
       ],
     },
     {
@@ -54,7 +54,7 @@ export default {
       folded: false,
       name: '04_邂逅和常见CSS',
       collection: [
-        {name: '01_编写规则-内联样式.html', author: 'Zkeq', id: '7178811970462679101', default: true},
+        {name: '01_编写规则-内联样式.html', author: 'Zkeq', id: '7178811970462679101'},
         {name: '02_编写规则-内部样式.html', author: 'Zkeq', id: '7178812148586397757'},
         {name: '03_编写规则-外部样式01.html', author: 'Zkeq', id: '7178812306418040891'},
         {name: '03_编写规则-外部样式02.html', author: 'Zkeq', id: '7178812615563411496'},
@@ -71,7 +71,7 @@ export default {
       folded: false,
       name: '05_额外知识补充02',
       collection: [
-        {name: '01_link元素的使用.html', author: 'Zkeq', id: '7178814030830633021', default: true},
+        {name: '01_link元素的使用.html', author: 'Zkeq', id: '7178814030830633021'},
         {name: '02_在JavaScript中表示其他进制.html', author: 'Zkeq', id: '7178814590803771450'},
         {name: '03_在CSS中设置颜色.html', author: 'Zkeq', id: '7178816552551055415'},
         {name: '04_浏览器的渲染流程.html', author: 'Zkeq', id: '7178816698609811516'},
@@ -82,7 +82,7 @@ export default {
       folded: false,
       name: '06_CSS属性-文本',
       collection: [
-        {name: '01_text-decoration.html', author: 'Zkeq', id: '7178816842730274877', default: true},
+        {name: '01_text-decoration.html', author: 'Zkeq', id: '7178816842730274877'},
         {name: '02_text-transform(了解).html', author: 'Zkeq', id: '7178817043280445477'},
         {name: '03_text-indent(了解).html', author: 'Zkeq', id: '7178817243021574200'},
         {name: '04_text-align(基本使用).html', author: 'Zkeq', id: '7178817380804460605'},
@@ -97,7 +97,7 @@ export default {
       folded: false,
       name: '07_CSS属性-字体',
       collection: [
-        {name: '01_font-size.html', author: 'Zkeq', id: '7178818006825304121', default: true},
+        {name: '01_font-size.html', author: 'Zkeq', id: '7178818006825304121'},
         {name: '02_font-family.html', author: 'Zkeq', id: '7178818181861998653'},
         {name: '03_font-weight.html', author: 'Zkeq', id: '7178818425727221792'},
         {name: '04_font-style.html', author: 'Zkeq', id: '7178818583315611708'},
@@ -112,7 +112,7 @@ export default {
       folded: false,
       name: '08_CSS常见选择器',
       collection: [
-        {name: '01_通用选择器.html', author: 'Zkeq', id: '7178819821985857575', default: true},
+        {name: '01_通用选择器.html', author: 'Zkeq', id: '7178819821985857575'},
         {name: '02_简单选择器(重要).html', author: 'Zkeq', id: '7178820003855073335'},
         {name: '03_属性选择器(了解).html', author: 'Zkeq', id: '7178820139171708985'},
         {name: '04_后代选择器(重要).html', author: 'Zkeq', id: '7178820262475857976'},
@@ -130,7 +130,7 @@ export default {
       folded: false,
       name: '09_CSS-继承-层叠-类型',
       collection: [
-        {name: '01_CSS继承-默认继承.html', author: 'Zkeq', id: '7178821626224443453', default: true},
+        {name: '01_CSS继承-默认继承.html', author: 'Zkeq', id: '7178821626224443453'},
         {name: '02_CSS继承-继承计算值(了解).html', author: 'Zkeq', id: '7178821802175496251'},
         {name: '03_CSS继承-强制继承(了解).html', author: 'Zkeq', id: '7178821921591869499'},
         {name: '04_CSS层叠-基本演练.html', author: 'Zkeq', id: '7178822050608316477'},
@@ -150,7 +150,7 @@ export default {
       folded: false,
       name: '10_CSS的盒子模型',
       collection: [
-        {name: '01_认识盒子模型.html', author: 'Zkeq', id: '7178823418916110391', default: true},
+        {name: '01_认识盒子模型.html', author: 'Zkeq', id: '7178823418916110391'},
         {name: '02_盒子模型-内容-width-height.html', author: 'Zkeq', id: '7178823636705345540'},
         {name: '03_盒子模型-内容-width-默认值.html', author: 'Zkeq', id: '7178823765906686012'},
         {name: '04_盒子模型-内容-max-min-width.html', author: 'Zkeq', id: '7178823924094861372'},
@@ -180,7 +180,7 @@ export default {
       folded: false,
       name: '11_CSS设置背景',
       collection: [
-        {name: '01_背景图片-background-image.html', author: 'Zkeq', id: '7178827427148202044', default: true},
+        {name: '01_背景图片-background-image.html', author: 'Zkeq', id: '7178827427148202044'},
         {name: '02_背景图片-background-repeat.html', author: 'Zkeq', id: '7178827657348382775'},
         {name: '03_背景平铺-background-repeat练习.html', author: 'Zkeq', id: '7178827870876205117'},
         {name: '04_背景尺寸-background-size.html', author: 'Zkeq', id: '7178828028745613370'},
@@ -194,7 +194,7 @@ export default {
       folded: false,
       name: '12_HTML高级元素',
       collection: [
-        {name: '01_列表-有序列表-ol-li.html', author: 'Zkeq', id: '7179058593948237828', default: true},
+        {name: '01_列表-有序列表-ol-li.html', author: 'Zkeq', id: '7179058593948237828'},
         {name: '02_列表-无序列表-ul-li.html', author: 'Zkeq', id: '7179058805509095439'},
         {name: '03_列表-定义列表-dl-dt-dd.html', author: 'Zkeq', id: '7179058961318936613'},
         {name: '04_列表练习-新闻列表.html', author: 'Zkeq', id: '7179059056433168418'},
@@ -219,7 +219,7 @@ export default {
       folded: false,
       name: '13_Emmet和结构伪类',
       collection: [
-        {name: '01_emmet语法.html', author: 'Zkeq', id: '7179061199030452261', default: true},
+        {name: '01_emmet语法.html', author: 'Zkeq', id: '7179061199030452261'},
         {name: '02_个数和上一级.html', author: 'Zkeq', id: '7179061451225563173'},
         {name: '03_分组.html', author: 'Zkeq', id: '7179061574827507767'},
         {name: '04_属性和内容(多一些).html', author: 'Zkeq', id: '7179061706487201850'},
@@ -280,7 +280,33 @@ export default {
         {name: '04_浮动的练习-图文环绕.html', author: 'Zkeq', id: '7180404540423258116'},    
         {name: '05_浮动的练习01-空隙的解决方案.html', author: 'Zkeq', id: '7180404701031038979'},      
         {name: '06_浮动的练习02-百度页码展示.html', author: 'Zkeq', id: '7180404827711602700'},    
-        {name: '07_浮动的练习03-京东多列布局.html', author: 'Zkeq', id: '7180404970057891840'},    
+        {name: '07_浮动的练习03-京东多列布局.html', author: 'Zkeq', id: '7180404970057891840'},   
+        {name: '08_浮动的练习04-京东多列布局.html', author: 'Zkeq', id: '7182209795125215287'},    
+        {name: '10_浮动的练习05-考拉的多列布局.html', author: 'Zkeq', id: '7182210006413115449'},      
+        {name: '11_margin-left设置负值的问题.html', author: 'Zkeq', id: '7182210124889456696'},     
+        {name: '12_浮动的问题-高度塌陷.html', author: 'Zkeq', id: '7182210237414244411'},    
+      ],
+    },
+    {
+      type: 'folder',
+      folded: false,
+      name: '17_布局-flex布局',
+      collection: [
+        {name: '01_重要概念-flex-container-item.html', author: 'Zkeq', id: '7182210421724561445'},    
+        {name: '02_flex模型-各种概念.html', author: 'Zkeq', id: '7182210596341809208'},      
+        {name: '03-container-flex-direction.html', author: 'Zkeq', id: '7182210702604992573'},    
+        {name: '04-container-flex-wrap.html', author: 'Zkeq', id: '7182211004711829563'},      
+        {name: '05-container-flex-flow练习.html', author: 'Zkeq', id: '7182211229422174266'},   
+        {name: '06-container-justify-content.html', author: 'Zkeq', id: '7182211354630193210'},      
+        {name: '07-container-align-items.html', author: 'Zkeq', id: '7182211484443738152'},   
+        {name: '08-container-align-content.html', author: 'Zkeq', id: '7182211662307393570'},      
+        {name: '09-item-order.html', author: 'Zkeq', id: '7182211833929924642'},   
+        {name: '10-item-align-self.html', author: 'Zkeq', id: '7182211945796206631'},      
+        {name: '11-item-flex-grow.html', author: 'Zkeq', id: '7182212093590896700'},   
+        {name: '12-item-flex-shrink.html', author: 'Zkeq', id: '7182212192635191355'},      
+        {name: '13-item-flex-basis.html', author: 'Zkeq', id: '7182212297916416057'},   
+        {name: '14-item-flex.html', author: 'Zkeq', id: '7182212420620779579'},      
+        {name: '15_flex布局常见问题.html', author: 'Zkeq', id: '7182212521191800889'},   
       ],
     },
     {
