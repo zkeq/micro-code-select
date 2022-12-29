@@ -312,6 +312,50 @@ export default {
     {
       type: 'folder',
       folded: false,
+      name: '实战课-00_额外知识补充',
+      collection: [
+        {name: '02_line-height对行内非替换元素.html', author: 'Zkeq', id: '7182457703883604024'},    
+        {name: '03_块级元素中嵌套img.html', author: 'Zkeq', id: '7182466000992862243'},      
+        {name: '04_块级元素中的居中对齐.html', author: 'Zkeq', id: '7182466750188486714'},    
+        {name: '05_box-sizing的应用场景.html', author: 'Zkeq', id: '7182466834497536061'},    
+        {name: '06_box-sizing的无作用.html', author: 'Zkeq', id: '7182466930119278650'},      
+        {name: '07_a中嵌套div的现象.html', author: 'Zkeq', id: '7182467017838952509'},    
+      ],
+    },
+    {
+      type: 'folder',
+      folded: false,
+      name: '实战课-01_其他案例',
+      collection: [
+        {name: '01_小米界面布局.html', author: 'Zkeq', id: '7182467122126127141'},    
+        {name: '02_考拉界面布局.html', author: 'Zkeq', id: '7182467592953528376'},          
+      ],
+    },
+    {
+      type: 'folder',
+      folded: false,
+      name: '实战课-02_网易云分段',
+      collection: [
+        {name: '01_网易云-header.html', author: 'Zkeq', id: '7182468020731084859'},    
+        {name: '02_网易云-banner.html', author: 'Zkeq', id: '7182469912420581431'},    
+        {name: '03_网易云-main-right.html', author: 'Zkeq', id: '7182470138803781693'},      
+        {name: '04_网易云-按钮实现.html', author: 'Zkeq', id: '7182470569181315132'},    
+        {name: '05_网易云-main-left.html', author: 'Zkeq', id: '7182470934014459965'},    
+        {name: '06_网易云-main-left-content.html', author: 'Zkeq', id: '7182471175308574775'},   
+        {name: '07_网易云-main-left-rank.html', author: 'Zkeq', id: '7182471543480385573'},         
+      ],
+    },
+    {
+      type: 'folder',
+      folded: false,
+      name: '实战课-03_网易云音乐',
+      collection: [
+        {name: '实战课-03_网易云音乐', author: 'Zkeq', id: '7182471838402871299'},
+      ],
+    },
+    {
+      type: 'folder',
+      folded: false,
       name: '优秀作业集锦',
       collection: [
         {name: '优秀作业-001.html', author: 'Zkeq', id: '7178872112629678137'},
