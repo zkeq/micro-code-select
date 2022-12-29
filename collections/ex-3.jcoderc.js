@@ -1,6 +1,6 @@
 export default {
   name: '22计6 前端 寒提资料',
-  url: 'https://code.onmicrosoft.cn/ex-0',
+  url: 'https://code.onmicrosoft.cn/ex-3',
   collection: [
     {
       type: 'folder',
